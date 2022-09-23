@@ -43,6 +43,6 @@ if st.button('Predict'):
             st.success('Congratulations!')
             st.write('High chance of getting admission')
         else:
-            st.write('Low chance of gettign admission')
+            st.write('Low chance of getting admission')
     # except:
     #     st.write('Something is wrong')
