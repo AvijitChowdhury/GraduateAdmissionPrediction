@@ -1,7 +1,7 @@
 <html>
 
 <body>
-<h1>Graduate Admission Prediction/h1>
+<h1>Graduate Admission Prediction</h1>
 <p>The use of machine learning can be seen almost everywhere around us, be it Facebook recognizing you or your friends, or YouTube recommending you a video or two based on your history — Machine Learning is everywhere!
 However, the ‘magic’ of machine learning is not just limited to only these areas.
 Machine Learning is broadly categorized as Supervised and Unsupervised Learning.
@@ -42,7 +42,8 @@ So,In this project i have solved the problem with supervised machine learning an
 <li>Save The Model</li>
 <li>Make app for streamlit</li>
 </ol>
-<img src="projectDemo.png" width="700" height="400">
+<img src="files/image1.png" width="700" height="400">
+<img src ="files/image2.png" width="700" height="400">
 <video width="320" height="240" controls src="./files/GraduateAdmissionPrediction.mp4">
   <source src="" type="video/mp4">
 Video: 
