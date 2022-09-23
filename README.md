@@ -50,6 +50,13 @@ Video:
 </video>
 <a href="https://smsemailspamdetector.herokuapp.com/">Livelink</a>
 <a href="https://www.kaggle.com/datasets/mohansacharya/graduate-admissions">Dataset</a>
+<h2>Run Project using docker</h2>
+
+<ol>
+<li>First install docker</li>
+<li>docker pull avijit001/graduateaddmission</li>
+<li>docker run -p 8501:8501 avijit001/graduateaddmission:latest</li>
+</ol>
 </body>
 
 </html>

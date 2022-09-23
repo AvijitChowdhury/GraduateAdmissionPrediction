@@ -8,4 +8,6 @@ RUN pip install -r requirements.txt
 
 COPY . .
 
-CMD ["streamlit", "run","app.py"]
+
+# CMD streamlit run app.py
+CMD streamlit run --server.port $PORT app.py
